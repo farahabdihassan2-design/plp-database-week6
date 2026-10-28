@@ -1,4 +1,4 @@
-# 1. Create a dedicated backups directory
+﻿# 1. Create a dedicated backups directory
 mkdir $HOME\backups
 
 # 2. Take a logical backup of the bootcamp database in custom compressed format (-Fc)

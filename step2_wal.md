@@ -1,4 +1,4 @@
-# Step 2: Enable WAL Archiving
+﻿# Step 2: Enable WAL Archiving
 
 # 1. Create a dedicated WAL backup directory
 mkdir "$HOME\backups\wal"

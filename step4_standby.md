@@ -1,4 +1,4 @@
-# Step 4: Set Up a Streaming Standby
+﻿# Step 4: Set Up a Streaming Standby
 
 # 1. On the primary server, create replication role:
 # CREATE ROLE replicator WITH REPLICATION LOGIN PASSWORD 'reppass';

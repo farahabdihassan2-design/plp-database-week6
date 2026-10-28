@@ -1,4 +1,4 @@
-# Step 5: Watch Replication Health
+﻿# Step 5: Watch Replication Health
 
 # Run from the primary server to observe replication status and lag:
 SELECT application_name, state, 

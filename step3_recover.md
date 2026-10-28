@@ -1,4 +1,4 @@
-# Step 3: Simulate Disaster and Recover (PITR)
+﻿# Step 3: Simulate Disaster and Recover (PITR)
 
 # 1. Record time and delete data (Simulate disaster)
 # SELECT now();
